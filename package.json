@@ -1,0 +1,15 @@
+{
+  "name": "pool",
+  "version": "1.0.0",
+  "description": "pruebas de connection pool con mssql y generic-pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Trujillo",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mssql": "^4.1.0"
+  }
+}
